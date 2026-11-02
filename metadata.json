@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Rekod Surat JKR Port Dickson",
+  "description": "Sistem Rekod & Penjejakan Surat Bahagian Jalan JKR Port Dickson (BRS v2.2) dengan pendaftaran imbasan kamera pintar, agihan minit, dan pemantauan aliran kerja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
